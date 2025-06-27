@@ -1,4 +1,4 @@
-# Ontology
+# 无代码平台-Ontology
 基于本体的无代码平台-FeiShun通用业务系统，理论上可以配置任何业务，类似合同管理、客户管理、学籍管理，根据自己的需要只要配置即可。
 
 演示 http://demo.feishun.net
